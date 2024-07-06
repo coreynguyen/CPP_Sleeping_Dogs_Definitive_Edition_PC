@@ -66,6 +66,9 @@
 			<Add directory="include" />
 			<Add directory="lib/FLTK" />
 		</Linker>
+		<ExtraCommands>
+			<Add after='XCOPY &quot;$(PROJECT_DIR)\filelist.txt&quot; &quot;$(TARGET_OUTPUT_DIR)&quot; /D /Y' />
+		</ExtraCommands>
 		<Unit filename="include/BigInventoryFile.h" />
 		<Unit filename="include/Filenames.h" />
 		<Unit filename="include/QuickCompression.h" />
