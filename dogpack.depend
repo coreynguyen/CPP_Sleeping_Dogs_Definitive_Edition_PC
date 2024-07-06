@@ -1,0 +1,503 @@
+# depslib dependency file v1.0
+1720222719 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\resource.rc
+
+1719787958 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\bytestream.cpp
+	<cstring>
+	<windows.h>
+	<math.h>
+	"bytestream.h"
+
+1719787959 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\bytestream.h
+	<iostream>
+	<string>
+	<cmath>
+	<cstdint>
+	<algorithm>
+	<windows.h>
+	<type_traits>
+	"stringext.h"
+
+1669528455 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\stringext.h
+	<iostream>
+	<cstdint>
+	<cctype>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<vector>
+	<windows.h>
+	<time.h>
+
+1668570638 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\stringenc.h
+	<iostream>
+	<cstdint>
+	<string>
+	<windows.h>
+	"stringext.h"
+
+1720146918 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\main.cpp
+	<iostream>
+	<algorithm>
+	<cctype>
+	<sstream>
+	"bytestream.h"
+	"BigInventoryFile.h"
+	"Filenames.h"
+	"version.h"
+	"resource.h"
+	"interface.h"
+	"QuickCompression.h"
+	<FL/Fl.H>
+	<FL/x.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Table_Row.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Button.H>
+	<FL/fl_ask.H>
+	"guiicon.h"
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<dwmapi.h>
+
+1531731480 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1437730602 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\pnglibconf.h
+
+1531731480 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\abi-version.h
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_export.h
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_types.h
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_button.h
+	"Fl_Widget.H"
+
+1637431834 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_native_file_chooser.h
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<FL/Fl_File_Chooser.H>
+	<FL/filename.H>
+	<FL/Fl_Native_File_Chooser.H>
+	<FL/Fl_Native_File_Chooser.H>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_file_chooser.h
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<FL/Fl_Group.H>
+	<FL/Fl_Choice.H>
+	<FL/Fl_Menu_Button.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Preferences.H>
+	<FL/Fl_Tile.H>
+	<FL/Fl_File_Browser.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Check_Button.H>
+	<FL/Fl_File_Input.H>
+	<FL/Fl_Return_Button.H>
+	<FL/fl_ask.H>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_choice.h
+	"Fl_Menu_.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_menu_.h
+	"Fl_Widget.H"
+	"Fl_Menu_Item.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_menu_item.h
+	"Fl_Widget.H"
+	"Fl_Image.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_menu_button.h
+	"Fl_Menu_.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_tile.h
+	"Fl_Group.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_file_browser.h
+	"Fl_Browser.H"
+	"Fl_File_Icon.H"
+	"filename.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_browser.h
+	"Fl_Browser_.H"
+	"Fl_Image.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_browser_.h
+	"Fl_Group.H"
+	"Fl_Scrollbar.H"
+	<FL/Fl.H>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_scrollbar.h
+	"Fl_Slider.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_slider.h
+	"Fl_Valuator.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_valuator.h
+	"Fl_Widget.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_file_icon.h
+	"Fl.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\filename.h
+	"/usr/include/dirent.h"
+	"Fl_Export.H"
+	<FL/filename.H>
+	<sys/types.h>
+	<direct.h>
+	<sys/types.h>
+	<dirent.h>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_box.h
+	"Fl_Widget.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_check_button.h
+	"Fl_Light_Button.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_light_button.h
+	"Fl_Button.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_file_input.h
+	<FL/Fl_Input.H>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_input.h
+	"Fl_Input_.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_return_button.h
+	"Fl_Button.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_ask.h
+	"Enumerations.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1637431834 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_png_image.h
+	"Fl_Image.H"
+
+1637431834 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_jpeg_image.h
+	"Fl_Image.H"
+
+1637431834 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_int_input.h
+	"Fl_Input.H"
+
+1720293090 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\version.h
+
+1709847721 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\stb_image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1720222789 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\filesystem.cpp
+	"filesystem.h"
+
+1720222713 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\filesystem.h
+	<iostream>
+	<cmath>
+	<stack>
+	<string>
+	<vector>
+	<sstream>
+	<cstring>
+	<windows.h>
+	<shlwapi.h>
+	<shlobj.h>
+	<shobjidl.h>
+	<combaseapi.h>
+	<tchar.h>
+	<strings.h>
+	<wchar.h>
+
+1668570108 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\stringenc.cpp
+	"stringenc.h"
+
+1669528454 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\stringext.cpp
+	"windows.h"
+	"stringext.h"
+
+1719975824 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\biginventoryfile.cpp
+	"BigInventoryFile.h"
+	"Filenames.h"
+	"QuickCompression.h"
+	<algorithm>
+	<shlobj.h>
+
+1719973560 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\biginventoryfile.h
+	<windows.h>
+	<iostream>
+	<vector>
+	<cstdint>
+	<string>
+	<unordered_map>
+	"bytestream.h"
+
+1720279153 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\filenames.cpp
+	"Filenames.h"
+	"filesystem.h"
+	<cctype>
+	<vector>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1719894168 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\filenames.h
+	<vector>
+	<cstdint>
+	<string>
+	<unordered_map>
+
+1699586379 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\resource.h
+
+1720279714 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\interface.h
+	<FL/Fl.H>
+	"version.h"
+	"resource.h"
+	"filesystem.h"
+	<sstream>
+	<iomanip>
+	<sstream>
+	<string>
+	<vector>
+	<numeric>
+	<chrono>
+	<ctime>
+	<cmath>
+	<FL/x.H>
+	<FL/fl_ask.H>
+	<FL/fl_draw.H>
+	<FL/Fl_File_Chooser.H>
+	<FL/Fl_Multi_Label.H>
+	<FL/Fl_Table_Row.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_Image.H>
+	"interface_logo.h"
+	"Filenames.h"
+	"BigInventoryFile.h"
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Menu_Bar.H>
+	<FL/Fl_Group.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Output.H>
+	<FL/Fl_Box.H>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1717890249 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\dirent.h
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+	<ctype.h>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_table.h
+	<sys/types.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<FL/Fl.H>
+	<FL/Fl_Group.H>
+	<FL/Fl_Scroll.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Scrollbar.H>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_scroll.h
+	"Fl_Group.H"
+	"Fl_Scrollbar.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_menu_bar.h
+	"Fl_Menu_.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_output.h
+	"Fl_Input.H"
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_table_row.h
+	"Fl_Table.H"
+
+1720285548 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\interface.cxx
+	"interface.h"
+	"guiicon.h"
+	"QuickCompression.h"
+
+1719882005 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\interface_logo.h
+
+1719882004 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\interface_logo.cpp
+	"interface_logo.h"
+
+1719972961 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\quickcompression.h
+	<iostream>
+	<fstream>
+	<vector>
+	<array>
+	<stdexcept>
+	<unordered_map>
+	<string>
+	<utility>
+	<deque>
+	<thread>
+	<mutex>
+	<condition_variable>
+	<functional>
+	<memory>
+	<queue>
+
+1720285998 source:e:\backup\mycloud4100\coding\cpp\projects\dogpack\src\quickcompression.cpp
+	"QuickCompression.h"
+	<unordered_map>
+	<string>
+	<limits>
+	<cstring>
+	<iostream>
+	<algorithm>
+	<deque>
+	<thread>
+	"windows.h"
+	<mutex>
+	<condition_variable>
+	<sstream>
+
+1637435434 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\fl\fl_multi_label.h
+
+1720141935 e:\backup\mycloud4100\coding\cpp\projects\dogpack\include\guiicon.h
+	"guiicon.h"
+	<FL/Fl_Image.H>
+

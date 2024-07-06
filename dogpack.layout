@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="src\filesystem.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="24539" topLine="696" />
+		</Cursor>
+		<Folding>
+			<Collapse line="148" />
+			<Collapse line="725" />
+		</Folding>
+	</File>
+	<File name="src\BigInventoryFile.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="108" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="28" />
+			<Collapse line="39" />
+			<Collapse line="64" />
+			<Collapse line="82" />
+			<Collapse line="100" />
+		</Folding>
+	</File>
+	<File name="include\stringenc.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\resource.rc" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2147" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="include\version.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\filesystem.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6062" topLine="210" />
+		</Cursor>
+	</File>
+	<File name="include\BigInventoryFile.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1227" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="include\Filenames.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="624" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\interface.cxx" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14097" topLine="147" />
+		</Cursor>
+		<Folding>
+			<Collapse line="38" />
+			<Collapse line="69" />
+			<Collapse line="131" />
+			<Collapse line="182" />
+			<Collapse line="287" />
+			<Collapse line="297" />
+			<Collapse line="548" />
+			<Collapse line="713" />
+			<Collapse line="806" />
+			<Collapse line="834" />
+			<Collapse line="871" />
+			<Collapse line="952" />
+			<Collapse line="979" />
+			<Collapse line="1000" />
+			<Collapse line="1030" />
+			<Collapse line="1054" />
+			<Collapse line="1088" />
+			<Collapse line="1092" />
+			<Collapse line="1107" />
+			<Collapse line="1118" />
+			<Collapse line="1131" />
+			<Collapse line="1162" />
+			<Collapse line="1170" />
+			<Collapse line="1183" />
+			<Collapse line="1196" />
+			<Collapse line="1265" />
+			<Collapse line="1287" />
+		</Folding>
+	</File>
+	<File name="src\guiicon.cxx" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\resource.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="192" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21678" topLine="212" />
+		</Cursor>
+		<Folding>
+			<Collapse line="44" />
+			<Collapse line="67" />
+			<Collapse line="93" />
+			<Collapse line="278" />
+			<Collapse line="336" />
+			<Collapse line="343" />
+			<Collapse line="355" />
+			<Collapse line="386" />
+			<Collapse line="558" />
+		</Folding>
+	</File>
+	<File name="include\guiicon.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="33996" topLine="49" />
+		</Cursor>
+		<Folding>
+			<Collapse line="18" />
+			<Collapse line="49" />
+			<Collapse line="55" />
+			<Collapse line="83" />
+			<Collapse line="89" />
+			<Collapse line="142" />
+			<Collapse line="148" />
+			<Collapse line="205" />
+			<Collapse line="211" />
+			<Collapse line="255" />
+			<Collapse line="261" />
+			<Collapse line="292" />
+			<Collapse line="298" />
+			<Collapse line="359" />
+			<Collapse line="365" />
+			<Collapse line="419" />
+			<Collapse line="425" />
+			<Collapse line="475" />
+			<Collapse line="528" />
+			<Collapse line="534" />
+			<Collapse line="564" />
+			<Collapse line="570" />
+			<Collapse line="628" />
+			<Collapse line="634" />
+			<Collapse line="664" />
+			<Collapse line="670" />
+			<Collapse line="713" />
+			<Collapse line="719" />
+			<Collapse line="763" />
+			<Collapse line="769" />
+			<Collapse line="820" />
+			<Collapse line="826" />
+			<Collapse line="869" />
+			<Collapse line="875" />
+			<Collapse line="930" />
+		</Folding>
+	</File>
+	<File name="src\Filenames.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="43" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="67" />
+			<Collapse line="93" />
+			<Collapse line="121" />
+		</Folding>
+	</File>
+	<File name="src\QuickCompression.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="361" topLine="15" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+		</Folding>
+	</File>
+	<File name="include\stringext.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4300" topLine="86" />
+		</Cursor>
+	</File>
+	<File name="include\interface.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2701" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="include\QuickCompression.h" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1420" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="src\bytestream.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13384" topLine="447" />
+		</Cursor>
+	</File>
+	<File name="include\bytestream.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3847" topLine="95" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
